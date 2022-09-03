@@ -1,0 +1,3 @@
+# Quote genrator
+
+using JavaScript
